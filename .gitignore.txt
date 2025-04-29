@@ -1,0 +1,13 @@
+
+.vs
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.pdb
+*.dbmdl
+*.db
+*.sqlite
+*.sln.docstates
+
